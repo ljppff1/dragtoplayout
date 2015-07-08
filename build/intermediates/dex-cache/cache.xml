@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/classes-91df9f8950ecfa27a067f9f73910515ff2b7ee6c.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/exploded-aar/com.github.chenupt.android/multiplemodel/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4d54bca94a9d57520efa2934a9eb57a4cae3f889">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/classes-c14c4a6f6a2cf984bff1f1fd0fdd5c0d6d931113.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-083c9be487e0125345d9105b0959385393c20a8c.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/guava-18.0-fbbcbff74992a909c0e0a222af540c710971d07a.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/exploded-aar/com.github.shell-software/fab/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="21b7e1533326a38d45ea24d04c6acfcbf8ea33af">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/classes-c0b5d487df41ac28495216cf87457e4a16e133dd.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/eventbus-2.4.0-848fa1fa3936da8d2cca3ac8b3542e95ec9835f0.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-218137a1790bc67192d4db91f794ea0abf33e853.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/classes-7d6140bdd9a0ded714d0edb253c6beae25bee3ca.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.8/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e724073d032731be77fad0f993e2970fb4429e3a">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/classes-9e4362ff77fc75b3537d668158880aa39b4f035c.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/exploded-aar/com.navercorp.pulltorefresh/library/3.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e81a90331089d2f9018e493b0fdd6bab92fae40c">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/classes-706258ef28a53e778467ba61d5e63eb75cc88b19.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/classes-a2c3e2055d1d93b627b2a0ca45a7edff5ac7ea02.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/exploded-aar/dragtoplayout/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3cf937ebd8f2984d917a73b0007922afe63521d4">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/sample/build/intermediates/pre-dexed/debug/classes-ba09c41e8cabed75ed0c93e5dcf16c2339f88550.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/kwkw/build/intermediates/exploded-aar/com.github.chenupt.android/dragtoplayout/1.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="5d5d5ac7204a49183f5d30f215fe431349cff26d">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/dragtoplayout/kwkw/build/intermediates/pre-dexed/debug/classes-7fe46e21ea8c2a784fe9a8ca95d33644a82ec251.jar" />
+    </item>
+
+</items>
